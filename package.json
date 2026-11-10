@@ -92,6 +92,8 @@
     "algebra",
     "subroutines",
     "multiply",
+    "multiplication",
+    "hadamard",
     "transform",
     "strided",
     "array",
